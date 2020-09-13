@@ -1,5 +1,5 @@
 {
-  "name": "ghauth",
+  "name": "@bret/ghauth",
   "version": "4.0.0",
   "description": "Create and load persistent GitHub authentication tokens for command-line apps",
   "main": "ghauth.js",
